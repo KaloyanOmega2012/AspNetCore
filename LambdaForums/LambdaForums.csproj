@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LambdaForums.Data\LambdaForums.Data.csproj" />
+    <ProjectReference Include="..\LambdaForumService\LambdaForumService.csproj" />
   </ItemGroup>
 
 </Project>
